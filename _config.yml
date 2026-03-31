@@ -24,7 +24,7 @@ github_username:  nishant-jain
 
 # Build settings
 markdown: kramdown
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
