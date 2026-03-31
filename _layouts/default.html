@@ -31,9 +31,7 @@
 
     <div class="container">
       <section id="main_content">
-		{% for post in site.posts %}
-			- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%b %d, %Y" }}
-		{% endfor %}
+			{{ content }}		
       </section>
     </div>
   </body>
