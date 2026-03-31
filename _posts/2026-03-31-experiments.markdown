@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to my lab"
 date:   2026-03-31 22:00:00 +0530
+tags: experiments
 ---
 
 Few of my experiments, in no particular order:
